@@ -1,0 +1,1 @@
+1.make the 1st level with no power up. It will only have blocks. After each level we will introduce new power up.
